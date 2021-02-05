@@ -6,13 +6,14 @@
 * ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/data_statistics.png)
 * ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/raw_data.png)
 
-- 数据集的构建使用torchtext。process_raw_data.ipynb将原始数据处理成csv结构;build_dataset.ipynb构建train及val数据。
+- 数据集的构建使用torchtext。[process_raw_data](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/process_raw_data.ipynb) 将原始数据处理成csv结构;[build_dataset](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/build_dataset.ipynb) 构建train及val数据。
 * ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/process_data.png)
 
 - 利用apex进行混合精度训练。
 
 
 ## Model
+ 机器有限，训练不足，所以精度不是很高。
 ### model1
 * ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/model1.png)
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/pdf/1609.01454.pdf)
