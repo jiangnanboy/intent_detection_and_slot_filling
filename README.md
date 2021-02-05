@@ -13,7 +13,7 @@
 
 
 ## Model
- 机器有限，训练不足，所以精度不是很高。
+ 可提高训练时长，调整超参，以达到更高精度。
 ### model1
 * ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/model1.png)
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/pdf/1609.01454.pdf)
