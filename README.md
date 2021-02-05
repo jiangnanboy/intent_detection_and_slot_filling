@@ -1,8 +1,14 @@
 # intent detection and slot filling
 智能对话中的意图识别和槽位填充联合模型
 
-- 数据来自于国外航空订票数据atis(目前atis下)。
+## Data
+- 数据来自于国外航空订票数据atis(目录atis下)。
+* ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/data_statistics.png)
+* ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/raw_data.png)
+
 - 数据集的构建使用torchtext。process_raw_data.ipynb将原始数据处理成csv结构;build_dataset.ipynb构建train及val数据。
+* ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/process_data.png)
+
 - 利用apex进行混合精度训练。
 
 
