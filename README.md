@@ -20,6 +20,12 @@
 * [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model1/train.ipynb)
 * [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model1/predict.ipynb)
 
+### model2
+* ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/model2.png)
+* [Attention-Based BIRNN](https://arxiv.org/pdf/1609.01454.pdf)
+* [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model2/train.ipynb)
+* [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model2/predict.ipynb)
+
 ## Note
 
 使用Apex导致的问题：
