@@ -26,6 +26,12 @@
 * [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model2/train.ipynb)
 * [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model2/predict.ipynb)
 
+### model3
+* ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/model3.png)
+* [Attention-Based Slot-gate](https://www.aclweb.org/anthology/N18-2118.pdf)
+* [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model3/train.ipynb)
+* [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model3/predict.ipynb)
+
 ## Note
 
 使用Apex导致的问题：
