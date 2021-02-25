@@ -32,6 +32,12 @@
 * [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model3/train.ipynb)
 * [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model3/predict.ipynb)
 
+### model4
+* ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/model4.png)
+* [CNN-Based](https://arxiv.org/pdf/1705.03122.pdf)
+* [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model4/train.ipynb)
+* [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model4/predict.ipynb)
+
 ## Note
 
 使用Apex导致的问题：
