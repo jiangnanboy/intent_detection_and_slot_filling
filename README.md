@@ -51,7 +51,7 @@
 
 ## Note
 
-使用Apex导致的问题：
+可加入Apex加速训练，使用Apex时导致的问题：
 ```
 Loss整体变大，而且很不稳定。效果变差。会遇到梯度溢出。
 Gradient overflow.  Skipping step, loss scaler 0 reducing loss scale to 32768.0
