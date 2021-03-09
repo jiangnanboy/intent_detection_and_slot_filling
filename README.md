@@ -38,6 +38,16 @@
 * [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model4/train.ipynb)
 * [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model4/predict.ipynb)
 
+### model5
+    此模型是本人在model4的基础上的改进，改进有两点如下：
+        1.加入了多个size的卷积，获取更多的特征，最后将这多个size的卷积进行连接。
+        2.在embedding层后使用了一个多头注意力self-attention。
+        3.最后将卷积后的特征和self-attention后的特征进行连接。
+
+* [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model5/train.ipynb)
+* [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model5/predict.ipynb)
+
+
 ## Note
 
 使用Apex导致的问题：
