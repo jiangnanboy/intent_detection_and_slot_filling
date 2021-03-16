@@ -52,7 +52,7 @@
 ### model6     
         note：bert用于意图识别与槽填充
 * ![image](https://raw.githubusercontent.com/jiangnanboy/intent_detection_and_slot_filling/master/img/model6.png)
-* [Bert]((https://arxiv.org/pdf/1902.10909.pdf))
+* [Bert](https://arxiv.org/pdf/1902.10909.pdf)
 * [train](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model6/train.ipynb)
 * [predict](https://github.com/jiangnanboy/intent_detection_and_slot_filling/blob/master/model6/predict.ipynb)
 
